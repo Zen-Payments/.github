@@ -2,5 +2,5 @@
 
 Nicolas Child                                                                    |  Wyatt Garcia
 :-------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:
-![](https://github.com/Zen-Payments/.github/blob/main/photos/nick.png?raw=true)  |  ![](https://github.com/Zen-Payments/.github/blob/main/photos/wyatt.png?raw=true =250x250)
+![](https://github.com/Zen-Payments/.github/blob/main/photos/nick.png?raw=true)  |  ![](https://github.com/Zen-Payments/.github/blob/main/photos/wyatt.png =250x250)
 
