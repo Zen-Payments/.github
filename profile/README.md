@@ -1,15 +1,13 @@
 <p align="center">
-  <img src="https://github.com/Zen-Payments/.github/blob/main/photos/logo.svg?raw=true#gh-light-mode-only">
+  <img src="https://github.com/Zen-Payments/.github/blob/main/photos/logo.svg?raw=true">
 </p>
 
 <p align="center">
-  <img src="https://github.com/Zen-Payments/.github/blob/main/photos/whitelogo.svg?raw=true#gh-dark-mode-only">
+  <img src="https://github.com/Zen-Payments/.github/blob/main/photos/whitelogo.svg?raw=true">
 </p>
 
 <p align="center">
-
-#### Zen Payments specializes in high risk credit card processing and has been a top merchant account provider for over 15 years. Contact us today and to learn about our same-day approvals, high riskindustries, and gateway solutions.
-
+  Zen Payments specializes in high-risk credit card processing and has been a top merchant account provider for over 15 years. Contact us today to learn about our same-day approvals, high-risk industries, and gateway solutions.
 </p>
 
 # Contributors
