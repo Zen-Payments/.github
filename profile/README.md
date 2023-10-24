@@ -1,5 +1,9 @@
-<p align="left">
+<p align="center">
   <img src="https://github.com/Zen-Payments/.github/blob/main/photos/logo.svg?raw=true#gh-light-mode-only">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Zen-Payments/.github/blob/main/photos/whitelogo.svg?raw=true#gh-dark-mode-only">
 </p>
 
 # Contributors
