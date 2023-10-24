@@ -10,6 +10,10 @@
   Zen Payments specializes in high-risk credit card processing and has been a top merchant account provider for over 15 years. Contact us today to learn about our same-day approvals, high-risk industries, and gateway solutions.
 </p>
 
+<br>
+<br>
+
+
 # Contributors
   
 | Nicolas Child    | Wyatt Garcia        | Rebecca Liou        |
