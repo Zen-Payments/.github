@@ -1,5 +1,5 @@
 <div style="padding: 40px 40px 40px 40px;">
-<img src="../photos/logo.svg" alt="Zen Payments Logo" style="display: block; margin: 0 auto;">
+<img src="https://github.com/Zen-Payments/.github/blob/main/photos/logo.svg?raw=true" alt="Zen Payments Logo" style="display: block; margin: 0 auto;">
   <div style="padding: 40px">
   <hr style="border-color: black;">
   <h2>Contributors</h2>
