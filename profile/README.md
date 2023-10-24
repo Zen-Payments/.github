@@ -8,7 +8,7 @@
 
 <p align="center">
 
-#### Zen Payments specializes in high risk credit card processing and has been a top merchant account provider for over 15 years. Contact us today and to learn about our same-day approvals, high risk industries, and gateway solutions.
+#### [Zen Payments specializes in high risk credit card processing and has been a top merchant account provider for over 15 years. Contact us today and to learn about our same-day approvals, high riskindustries, and gateway solutions.]
 
 </p>
 
